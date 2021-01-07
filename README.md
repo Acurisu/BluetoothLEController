@@ -18,7 +18,7 @@ Adjust your projects `Configuration Properties` as follows:
 #### Make sure that
 
 - Bluetooth is working on your PC and supports Bluetooth Low Energy.
-- Your device is turned on, discoverable, pairable and in range.
+- Your device is turned on, discoverable, connectable and in range.
 
 ## Documentation
 
